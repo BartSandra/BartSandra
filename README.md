@@ -7,7 +7,7 @@ A dedicated backend developer specializing in Go
 I’m a passionate and dedicated Go developer with experience in building high-performance backend systems. I graduated from 21 School (a programming school) and am actively developing my skills in software development. I specialize in creating efficient microservices, distributed systems, and optimizing application performance. My technical stack includes Go, C++, C, SQL, Git, Docker, Kubernetes, CICD, gRPC, and various cloud platforms such as AWS and GCP. I enjoy tackling complex problems, working on challenging projects, and continuously learning new technologies to stay ahead in the rapidly evolving field of software development.
 
 * 🌍  I'm based in I'm based in Moscow, Russia
-* 🖥️  See my portfolio at [https://github.com/BartSandra/projects](http://github.com/BartSandra/projects)
+* 🖥️  See my portfolio at [https://github.com/BartSandra](http://github.com/BartSandra)
 * ✉️  You can contact me at [@sandra\_bartash](mailto:@sandra_bartash)
 * 🧠  I'm learning I'm currently learning: Advanced Go programming techniques, Kubernetes orchestration, and distributed systems design.
 * ⚡  Anything else: I have a strong interest in performance optimization, ensuring that my code runs efficiently even at scale.
